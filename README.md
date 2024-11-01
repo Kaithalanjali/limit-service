@@ -7,3 +7,6 @@ Please refer application.properties file, how I am making config imports
 
 
 Note: configuraton on config-server has more priority than the local configurations present in application.properties
+
+![image](https://github.com/user-attachments/assets/d4d0119b-b431-407b-b88e-4cd5d2b5c9c2)
+
