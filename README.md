@@ -4,4 +4,6 @@ This is a microservice which is having dependency config-client ![image](https:/
 
 Please refer application.properties file, how I am making config imports
 ![image](https://github.com/user-attachments/assets/0d28d4f3-6ad2-413b-8679-3b7ce6361065)
+
+
 Note: configuraton on config-server has more priority than the local configurations present in application.properties
